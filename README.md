@@ -5,6 +5,7 @@ MIDI to SoundFont Renderer written in python
 Add MIDI files to library/ directory
 
 Add SoundFount to soundfonts/ directory
+Change soundfont name in code
 
 Run python render.py until all dependencies are met
 
